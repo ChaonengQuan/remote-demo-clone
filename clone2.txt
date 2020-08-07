@@ -1,0 +1,2 @@
+first line of clone2.txt
+
